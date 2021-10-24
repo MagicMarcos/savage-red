@@ -9,7 +9,7 @@
         <li>Node</li>
         <li>Express</li>
         <li>EJS</li>
-        <li>CSS(flexbox)</li>
+        <li>CSS</li>
         <li>MongoDB</li>
     </ul>
 
